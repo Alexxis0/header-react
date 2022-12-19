@@ -1,0 +1,13 @@
+.head {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border-bottom: 2px solid black;
+    height: 80px;
+    
+    li {
+        color: black;
+        font-size: 1.5rem;
+        cursor: pointer;
+    }
+}
