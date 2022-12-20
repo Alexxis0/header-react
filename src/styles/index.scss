@@ -1,5 +1,5 @@
 @import "./components/head";
-
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
 
 *{
     padding: 0;
@@ -7,4 +7,5 @@
     list-style: none;
     box-sizing: border-box;
     text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
 }
